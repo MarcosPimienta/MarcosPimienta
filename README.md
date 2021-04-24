@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies for the web and developing software solutions.
 - 🎓 &nbsp; Studying Game Development, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in VR/AR and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; 3D Animation/Modeling and rigging as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee with a good conversation could be a great help.
 - 📫 How to reach me: (+57)300-288-1403 fenix3819@gmail.com
 
