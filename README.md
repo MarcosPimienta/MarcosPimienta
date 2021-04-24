@@ -19,9 +19,10 @@
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Autodesk 3DS Max | Autodesk Maya | Unity | Unreal | Adobe Illustrator | Adobe Photoshop
 
+
 <br>
 
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosPimienta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=07d2f1&icon_color=07d2f1&text_color=D3D3D3&bg_color=0,000000,101819" alt="Marcos Github Stats">
 
 </br>
