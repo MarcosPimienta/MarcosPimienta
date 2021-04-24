@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Enthusiast in VR/AR and Artificial Intelligence .
 - ✍️ &nbsp; 3D Animation/Modeling and rigging as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee with a good conversation could be a great help.
-- 📫 How to reach me: (+57)300-288-1403 fenix3819@gmail.com
+- 📫 How to reach me: fenix3819@gmail.com
 
 <h3>🛠 Tech Stack</h3>
 
@@ -22,12 +22,12 @@
 <br>
 
 <!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosPimienta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosPimienta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=07d2f1&icon_color=07d2f1&text_color=D3D3D3&bg_color=0,000000,101819" alt="Marcos Github Stats">
 
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPimienta&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MarcosPimienta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPimienta&layout=compact&title_color=b75fa3&text_color=b75fa3&bg_color=101819)](https://github.com/MarcosPimienta/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -42,6 +42,6 @@
   <img src="https://img.shields.io/badge/Age-31-blue" />
   <img src="https://img.shields.io/badge/Focus-Game%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Medellín-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20SSpanish-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
 <p align="center">
