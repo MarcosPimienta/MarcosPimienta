@@ -43,7 +43,7 @@
 
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarcosPimienta&color=brightgreen" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Age-31-blue" />
+  <img src="https://img.shields.io/badge/Age-33-blue" />
   <img src="https://img.shields.io/badge/Focus-Game%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Medellín-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
