@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Unity C#, Unreal C++, React, NodeJs
+- 🔭 &nbsp; I’m currently learning Python, Typescript, React, NodeJs, BabylonJs
 - 🤔 &nbsp; Exploring new technologies for the web and developing software solutions.
 - 🎓 &nbsp; Studying Game Development, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in VR/AR and Artificial Intelligence .
@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C# | Java | C++ | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | C# | Java | C++ | HTML | CSS | JavaScript | Typescript 
 - 🌐 &nbsp; React | Vue | Angular
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Visual Studio code | Git
