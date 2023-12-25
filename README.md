@@ -49,7 +49,7 @@ Eager to contribute to cutting-edge projects and collaborate with teams that sha
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarcosPimienta&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-34-blue" />
-  <img src="https://img.shields.io/badge/Focus-Game%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Full-stack-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Miami-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
