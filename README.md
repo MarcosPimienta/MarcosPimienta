@@ -1,23 +1,28 @@
 <h2> Hey there! I'm Marcos. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/sV58d5Y5YMWNpW0Pcj/giphy.gif" width="400"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 🚀 About Me:</h3>
 
-- 🔭 &nbsp; I’m currently learning Python, Typescript, React, NodeJs, BabylonJs
-- 🤔 &nbsp; Exploring new technologies for the web and developing software solutions.
-- 🎓 &nbsp; Studying Game Development, computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in VR/AR and Artificial Intelligence .
-- ✍️ &nbsp; 3D Animation/Modeling and rigging as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee with a good conversation could be a great help.
-- 📫 How to reach me: fenix3819@gmail.com
+🌐 As a passionate Full-Stack Developer, I blend innovation with efficiency to create compelling web applications and digital solutions. My journey in technology is driven by a deep interest in software engineering and cloud technologies.
 
-<h3>🛠 Tech Stack</h3>
+👨‍💻 Skills and Learning:
 
-- 💻 &nbsp; Python | C# | Java | C++ | HTML | CSS | JavaScript | Typescript 
-- 🌐 &nbsp; React | Vue | Angular
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Autodesk 3DS Max | Autodesk Maya | Unity | Unreal | Adobe Illustrator | Adobe Photoshop
+- Proficient in Python, JavaScript, Typescript, React, and NodeJs, constantly evolving my skills to stay ahead in the dynamic web development landscape.
+- Skilled in leveraging cloud services to enhance application performance and scalability.
+
+🔧 Tech Stack Mastery:
+
+- Expertise in HTML, CSS, JavaScript, and popular frameworks like React, Vue, Babylon.
+- Experienced in database management with MySQL, ensuring robust back-end support.
+- Proficient with essential development tools like Visual Studio Code, Visual Studio Community, and Git, ensuring efficient workflow and collaboration.
+
+💡 Professional Philosophy:
+
+I believe in the power of collaboration and innovative thinking to solve complex challenges.
+Dedicated to developing user-centric and responsive web solutions that meet the needs of a diverse clientele.
+
+📈 Looking Forward:
+Eager to contribute to cutting-edge projects and collaborate with teams that share a vision for impactful and scalable web technologies.
 
 <br>
 
