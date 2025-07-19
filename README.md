@@ -3,26 +3,39 @@
 
 <h3> 🚀 About Me:</h3>
 
-🌐 As a passionate Full-Stack Developer, I blend innovation with efficiency to create compelling web applications and digital solutions. My journey in technology is driven by a deep interest in software engineering and cloud technologies.
+🌟 Full‑Stack Developer & 3D Web Enthusiast
+Bringing together innovation and efficiency to craft high‑impact web applications, immersive 3D experiences, and scalable digital solutions.
 
-👨‍💻 Skills and Learning:
+🎮 Passions & Focus
 
-- Proficient in Python, JavaScript, Typescript, React, and NodeJs, constantly evolving my skills to stay ahead in the dynamic web development landscape.
-- Skilled in leveraging cloud services to enhance application performance and scalability.
+* 🚀 Software Engineering: Building robust, maintainable codebases.
 
-🔧 Tech Stack Mastery:
+* 🌐 3D Web & Graphics: Leveraging Babylon.js and WebGL to create interactive scenes and games.
 
-- Expertise in HTML, CSS, JavaScript, and popular frameworks like React, Vue, Babylon.
-- Experienced in database management with MySQL, ensuring robust back-end support.
-- Proficient with essential development tools like Visual Studio Code, Visual Studio Community, and Git, ensuring efficient workflow and collaboration.
+* 🎨 User Experience: Designing interfaces that delight and engage.
 
-💡 Professional Philosophy:
+💻 Core Skills
 
-I believe in the power of collaboration and innovative thinking to solve complex challenges.
-Dedicated to developing user-centric and responsive web solutions that meet the needs of a diverse clientele.
+Languages & Frameworks:
 
-📈 Looking Forward:
-Eager to contribute to cutting-edge projects and collaborate with teams that share a vision for impactful and scalable web technologies.
+C++ | C# | Python | Flask | TypeScript | JavaScript | Node.js | React | Vue | Babylon.js | Three.js | HTML | CSS | Bootstrap | MySQL | PostgreSQL | Git | Linux | .Net | Docker | Kubernetes | WebGL| GCP 
+
+💡 Professional Philosophy
+
+“Collaboration fuels innovation.”
+I partner closely with cross‑functional teams to solve complex challenges, always keeping the end‑user front and center.
+
+📈 What’s Next?
+I’m eager to:
+
+* Contribute to ambitious, scalable projects
+
+* Push the boundaries of web‑based 3D and interactive media
+
+* Mentor and learn alongside other passionate engineers
+
+📬 Let’s Connect!
+Whether you have a challenge in mind or just want to nerd out over shaders and backend optimizations, drop me a message!
 
 <br>
 
